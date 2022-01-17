@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">recipes.cook</string>
+    <string name="main_button_recipe_list">Check recipes</string>
+    <string name="main_button_add_new_recipe">Add new recipe</string>
+    <string name="main_button_bmi_calculator">BMI Calculator</string>
+    <string name="main_button_about">About the app</string>
+
+    <string name="calculator_title">BMI Calculator</string>
+    <string name="weight_title">Weight (kg)</string>
+    <string name="height_title">Height (cm)</string>
+    <string name="calculate_button">Calculate BMI</string>
+    <string name="bmi_title">Your BMI</string>
+    <string name="bmi_value" translatable="false">20.5</string>
+    <string name="bmi_status">Normal range</string>
+    <string name="calculate_again">Try again</string>
+    <string name="calculated_result">Your BMI</string>
+    <string name="calculated_result_underweight_I">"Underweight (Severe thinness)"</string>
+    <string name="calculated_result_underweight_II">"Underweight (Moderate thinness)"</string>
+    <string name="calculated_result_underweight_III">"Underweight (Mild thinness)"</string>
+    <string name="calculated_result_normal_range">"Normal range"</string>
+    <string name="calculated_result_overweight">"Overweight (Pre-obese)"</string>
+    <string name="calculated_result_obese_I">"Obese (Class I)"</string>
+    <string name="calculated_result_obese_II">"Obese (Class II)"</string>
+    <string name="calculated_result_obese_III">"Obese (Class III)"</string>
+
+    <string name="static_name">Available recipes</string>
+    <string name="recipe_name">"Recipe name"</string>
+    <string name="recipe_description">"Description"</string>
+    <string name="recipe_ingredients">"Ingredients"</string>
+    <string name="recipe_method">"Instructions"</string>
+    <string name="recipe_calories">"Calories"</string>
+    <string name="recipe_number_of_servings">"Servings"</string>
+    <string name="recipe_cooking_time">"Cooking time"</string>
+
+    <string name="control_recipe_name">"Oatmeal Pancakes"</string>
+    <string name="control_recipe_description">"Preparing the batter in the food…"</string>
+    <string name="control_recipe_ingredients">"1/2 cup all-purpose flour\n1/2 cup quick cooking oats\n1 tablespoon white sugar"</string>
+    <string name="control_recipe_method">"Step 1\nPlace flour, oats…\n\nStep 2\nHeat a lightly oiled griddle…"</string>
+    <string name="control_recipe_number_of_servings" translatable="false">4</string>
+    <string name="control_recipe_cooking_time" translatable="false">20</string>
+    <string name="control_recipe_calories" translatable="false">500</string>
+
+    <string name="prepopulate_recipe_name_1">"Perfect scrambled eggs"</string>
+    <string name="prepopulate_recipe_description_1">"Learn how to make perfect scrambled eggs with this easy recipe. A quick breakfast packed with protein."</string>
+    <string name="prepopulate_recipe_ingredients_1">"2 large free range eggs\n6 tablespoon single cream or full cream milk\na knob of butter"</string>
+    <string name="prepopulate_recipe_method_1">"STEP 1\nLightly whisk 2 large eggs, 6 tablespoon single cream or full cream milk and a pinch of salt together until the mixture has just one consistency.\n\nSTEP 2\nHeat a small non-stick frying pan for a minute or so, then add a knob of butter and let it melt. Don’t allow the butter to brown or it will discolour the eggs.\n\nSTEP 3\nPour in the egg mixture and let it sit, without stirring, for 20 seconds. Stir with a wooden spoon, lifting and folding it over from the bottom of the pan.\n\nSTEP 4\nLet it sit for another 10 seconds then stir and fold again.\n\nSTEP 5\nRepeat until the eggs are softly set and slightly runny in places. Remove from the heat and leave for a moment to finish cooking.\n\nSTEP 6\nGive a final stir and serve the velvety scramble without delay.\n\n"</string>
+
+    <string name="prepopulate_recipe_name_2">"Pancakes with ham and mushrooms"</string>
+    <string name="prepopulate_recipe_description_2">"Pancakes is a dish known around the world, which is often on our tables. Flavorful stuffing for pancakes can be an interesting alternative to jams and sweet cottage cheese."</string>
+    <string name="prepopulate_recipe_ingredients_2">"150 grams ham\n200 grams mushrooms\n1 onion\n3 tablespoons margarine\n2 eggs\n120 grams flour\n250 millilitres milk \n10 millilitres sunflower oil"</string>
+    <string name="prepopulate_recipe_method_2">"Step 1\nUsing a blender, blend the milk with the eggs and soft margarine. Then combine with flour until smooth.\n\nStep 2\nPour portions of the batter into a hot frying pan with oil. Fry the pancakes on both sides.\n\n…"</string>
+
+    <string name="prepopulate_recipe_name_3">"Mushroom croquettes"</string>
+    <string name="prepopulate_recipe_description_3">"I invite you for my best recipe for croquettes with mushrooms and cheese. You can prepare them for dinner. They will be perfect with borscht."</string>
+    <string name="prepopulate_recipe_ingredients_3">"1 cup flour\n2 eggs\n1.5 cups milk\n1 teaspoon salt\n500 grams mushrooms\n1 tablespoon frying oil"</string>
+    <string name="prepopulate_recipe_method_3">"Step 1\nCombine the flour with the milk, eggs and a pinch of salt to form a classic pancake batter.\n\nStep 2\nFry thin pancakes in a Teflon pan with a little oil.\n\nStep 3\nGrate the mushrooms on a coarse grater and fry in a pan with oil.\n\nStep 4\nAdd a pinch of salt to the mushrooms and fry until all the water evaporates and the mushrooms become very dark.\n\nStep 5\nAdd Knorr seasoning at the end of frying and fry until the mushrooms become quite thick. Serve immediately or fry them additionally sauteed or with breadcrumbs. They taste great with a spoonful of sour cream."</string>
+
+    <string name="toast_for_calculator">"Please input correct data!"</string>
+    <string name="toast_for_add_recipe">"Please fill out all fields!"</string>
+    <string name="toast_for_added_recipe">"Recipe has been added!"</string>
+    <string name="toast_for_delete_recipe">"Successfully deleted recipe with name: "</string>
+
+    <string name="about_text">"Aplikacja recipe.cook jest mobilną książką kucharską.\n\nAplikacja pozwala w łatwy sposób na zapisywanie i zarządzanie ulubionymi przepisami. Wszystko w jedynym miejscu. Aplikacja posiada także kalkulator BMI za pomocą którego można obliczyć i ocenić wskaźnik masy ciała w opraciu o wagę i wzrost."</string>
+
+
+
+</resources>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">recipes.cook</string>
+    <string name="main_button_recipe_list">Lista dostępnych przepisów</string>
+    <string name="main_button_add_new_recipe">Dodaj nowy przepis</string>
+    <string name="main_button_bmi_calculator">Kalkulator BMI</string>
+    <string name="calculator_title">Kalkulator BMI</string>
+    <string name="weight_title">Waga (kg)</string>
+    <string name="height_title">Wzrost (cm)</string>
+    <string name="calculate_button">Oblicz BMI</string>
+    <string name="bmi_title">Twoje BMI</string>
+    <string name="calculate_again">Sprawdź ponownie</string>
+    <string name="calculated_result">Twoje BMI</string>
+    <string name="static_name">Dostępne przepisy</string>
+    <string name="recipe_name">Nazwa przepisu</string>
+    <string name="recipe_description">Opis</string>
+    <string name="recipe_ingredients">Składniki</string>
+    <string name="recipe_method">Przygotowanie</string>
+    <string name="recipe_calories">Kalorie</string>
+    <string name="recipe_number_of_servings">Porcje</string>
+    <string name="recipe_cooking_time">Czas</string>
+    <string name="toast_for_calculator">Wprowadź odpowiednie wartości!</string>
+    <string name="toast_for_add_recipe">Wszystkie pola powinny być uzupełnione!</string>
+    <string name="toast_for_added_recipe">Przepis został dodany!</string>
+    <string name="toast_for_delete_recipe">"Pomyślnie usunięto przepis o nazwie: "</string>
+
+    <string name="control_recipe_name">"Naleśniki z płatkami owsianymi"</string>
+    <string name="control_recipe_description">"Przygotowywanie ciasta na naleśniki należy do…"</string>
+    <string name="control_recipe_ingredients">"1/2 szklanki mąki\n1/2 szklanki płatków owsianych\n1 łyżka cukru białego"</string>
+    <string name="control_recipe_method">"Krok 1\nUmieść mąkę, płatki owsiane…\n\nKrok 2\nRozgrzej lekko naoliwioną patelnie…"</string>
+
+    <string name="prepopulate_recipe_name_1">"Klasyczna jajecznica"</string>
+    <string name="prepopulate_recipe_description_1">"Dowiedz się, jak zrobić idealną jajecznicę dzięki temu łatwemu przepisowi. Szybkie śniadanie pełne białka."</string>
+    <string name="prepopulate_recipe_ingredients_1">"2 jajka\n6 łyżek śmietany 18%\nkostka masła"</string>
+    <string name="prepopulate_recipe_method_1">"Krok 1\nLekko ubij 2 duże jajka, 6 łyżek stołowych śmietany i szczyptę soli razem, aż mieszanina będzie miała jednolitą konsystencję.\n\nKrok 2\nPodgrzewaj małą nieprzywierającą patelnię przez około minutę, następnie dodaj odrobine masła i pozwól mu się roztopić. Nie pozwól, aby masło zbrązowiało, ponieważ odbarwi to jajka.\n\nKrok 3\nWlać na patelnie i pozostawić na 20 sekund bez mieszania. Wymieszaj drewnianą łyżką, podnosząc ją z dna patelni.\n\nKrok 4\nPozostawić na kolejne 10 sekund, po czym ponownie wymieszać.\n\nKrok 5\nPowtarzaj czynność do momentu, aż jajka na miękko będą gotowe, a miejscami lekko płynne. Zdjąć z ognia i pozostawić na chwilę, aby jajka się dogotowały."</string>
+
+    <string name="prepopulate_recipe_name_3">"Krokiety z pieczarkami"</string>
+    <string name="prepopulate_recipe_description_3">"Zapraszam po mój najlepszy przepis na krokiety z pieczarkami i serem żółtym. Można je szykować na obiad oraz jako jedno z dań na Święta. Będą idealne do barszczyku."</string>
+    <string name="prepopulate_recipe_ingredients_3">"1 szklanka mąki pszennej\n2 sztuki jaja\n1.5 szklanki mleka\n1 łyżeczka soli\n500 g pieczarek\n1 łyżka oleju do smażenia"</string>
+    <string name="prepopulate_recipe_method_3">"Krok 1\nMąkę pszenną połącz z mlekiem, jajkami i szczyptą soli tworzącklasyczne ciasto naleśnikowe.\n\nKrok 2\nSmaż cienkie naleśniki na patelni teflonowej z odrobiną oleju.\n\nKrok 3\nPieczarki zetrzyj na tarce o grubych oczkach i smaż na patelni zolejem.\n\nKrok 4\nDodaj do pieczarek szczyptę soli i smaż tak długo, aż wyparuje caławoda i pieczarki zrobią się mocno ciemne.\n\nKrok 5\nPod koniec smażenia dodaj przyprawy Knorr i smaż, aż pieczarki zrobią się dość gęste.\n\nKrok 6\nGotowy farsz nakładaj na naleśniki i zwijaj klasyczne krokiety. Podawaj od razu lub podsmaż je dodatkowo saute lub z bułką tartą. Świetnie smakują z łyżką kwaśnej śmietany."</string>
+
+    <string name="prepopulate_recipe_name_2">"Naleśniki z szynką i pieczarkami"</string>
+    <string name="prepopulate_recipe_description_2">"Naleśniki to danie znane na całym świecie, które często gości na naszych stołach. Zaprezentowany farsz może być ciekawą alternatywą dla dżemów i słodkich twarożków."</string>
+    <string name="prepopulate_recipe_ingredients_2">"150 g szynki\n200 g pieczarek\n1 cebula\n3 łyżki margaryny\n2 jajka\n120 g mąki\n250 ml mleka \n10 ml oleju słonecznikowego"</string>
+    <string name="prepopulate_recipe_method_2">"Krok 1\nZa pomocą miksera zmiksuj mleko z jajkami i miękką margaryną. Następnie połączyć z mąką do uzyskania gładkiej masy.\n\nStep 2\nNa rozgrzaną patelnię z olejem wlewać porcje ciasta. Naleśniki smażymy z obu stron.\n\n…"</string>
+
+    <string name="bmi_status">Pożądana masa ciała</string>
+    <string name="calculated_result_underweight_I">Wygłodzenie</string>
+    <string name="calculated_result_underweight_II">\tWychudzenie</string>
+    <string name="calculated_result_underweight_III">Niedowaga</string>
+    <string name="calculated_result_normal_range">Pożądana masa ciała</string>
+    <string name="calculated_result_overweight">Nadwaga</string>
+    <string name="calculated_result_obese_I">Otyłość I stopnia</string>
+    <string name="calculated_result_obese_II">Otyłość II stopnia</string>
+    <string name="calculated_result_obese_III">Otyłość III stopnia</string>
+    <string name="about_text">The recipe.cook app is a mobile cookbook.\\n\\nThe app allows you to easily save and manage your favorite recipes. All in one place. The app also has a BMI calculator with which you can calculate and assess your body mass index based on your weight and height.</string>
+    <string name="main_button_about">O programie</string>
+
+
+</resources>

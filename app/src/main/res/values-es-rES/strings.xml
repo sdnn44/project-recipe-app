@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">recipe.cook</string>
+    <string name="toast_for_calculator">Introduzca los datos correctos.</string>
+    <string name="recipe_description">Descripción</string>
+    <string name="calculated_result_underweight_I">Delgadez severa</string>
+    <string name="calculated_result_underweight_II">Delgadez moderada</string>
+    <string name="calculated_result_underweight_III">Delgadez leve</string>
+    <string name="calculated_result_normal_range">Normal</string>
+    <string name="calculated_result_overweight">Preobesidad</string>
+    <string name="calculated_result_obese_I">Obesidad leve</string>
+    <string name="calculated_result_obese_II">Obesidad media</string>
+    <string name="calculated_result_obese_III">Obesidad mórbida</string>
+    <string name="static_name">Recetas disponibles</string>
+    <string name="recipe_name">Nombre</string>
+    <string name="recipe_ingredients">Ingredientes</string>
+    <string name="recipe_calories">Calorías</string>
+    <string name="recipe_method">Instrucciones</string>
+    <string name="recipe_number_of_servings">Porciones</string>
+    <string name="recipe_cooking_time">"Tiempo "</string>
+    <string name="control_recipe_name">Tortitas de avena</string>
+    <string name="prepopulate_recipe_name_1">Huevos revueltos perfectos</string>
+    <string name="prepopulate_recipe_name_2">Tortitas con jamón y champiñones</string>
+    <string name="prepopulate_recipe_name_3">Croquetas de setas</string>
+    <string name="toast_for_add_recipe">Rellene todos los campos.</string>
+    <string name="toast_for_added_recipe">¡Se ha añadido la receta!</string>
+    <string name="toast_for_delete_recipe">"Se ha eliminado con éxito la receta con el nombre: "</string>
+    <string name="main_button_recipe_list">Comprobar las recetas</string>
+    <string name="main_button_add_new_recipe">Añadir una nueva receta</string>
+    <string name="main_button_bmi_calculator">Calculadora de IMC</string>
+    <string name="calculator_title">Calculadora de IMC</string>
+    <string name="weight_title">Peso (kg)</string>
+    <string name="height_title">Altura (cm)</string>
+    <string name="calculate_button">Calcular el IMC</string>
+    <string name="bmi_title">Su IMC</string>
+    <string name="bmi_status">Normal</string>
+    <string name="calculate_again">Inténtalo de nuevo</string>
+    <string name="calculated_result">Su IMC</string>
+
+    <string name="control_recipe_description">"Preparando la masa en la comida…"</string>
+    <string name="control_recipe_ingredients">"1/2 taza de harina común\n1/2 taza de avena de cocción rápida\n1 cucharada de azúcar blanca"</string>
+    <string name="control_recipe_method">"Paso 1\nColocar la harina, la avena…\n\nPaso 2\nCalentar una plancha ligeramente aceitada…"</string>
+
+    <string name="prepopulate_recipe_description_1">"Aprende a hacer huevos revueltos perfectos con esta fácil receta. Un desayuno rápido repleto de proteínas."</string>
+    <string name="prepopulate_recipe_ingredients_1">"2 huevos grandes de corral\n6 cucharadas de nata o leche entera\n1 pomo de mantequilla."</string>
+    <string name="prepopulate_recipe_method_1">"PASO 1\nBate ligeramente 2 huevos grandes, 6 cucharadas de nata líquida o leche entera y una pizca de sal hasta que la mezcla tenga una sola consistencia.\n\nPASO 2\nCalienta una pequeña sartén antiadherente durante un minuto más o menos, luego añade una nuez de mantequilla y deja que se derrita. No dejes que la mantequilla se dore o decolorará los huevos.\n\nPASO 3\nVierte la mezcla de huevos y déjala reposar, sin remover, durante 20 segundos. Remover con una cuchara de madera, levantando y doblando desde el fondo de la sartén.\n\nPASO 4\nDejar reposar otros 10 segundos y luego remover y doblar de nuevo.\n\nPASO 5\nRepetir hasta que los huevos estén suavemente cuajados y ligeramente líquidas en algunas partes. Retirar del fuego y dejar un momento para que se terminen de cocinar.\n\nPASO 6\nDar una última vuelta y servir el revuelto aterciopelado sin demora."</string>
+
+    <string name="prepopulate_recipe_description_2">"Las tortitas son un plato conocido en todo el mundo, que suele estar en nuestras mesas. Un relleno sabroso para las tortitas puede ser una alternativa interesante a las mermeladas y al requesón dulce."</string>
+    <string name="prepopulate_recipe_ingredients_2">"150 gramos de jamón\n200 gramos de champiñones\n1 cebolla\n3 cucharadas de margarina\n2 huevos\n120 gramos de harina\n250 mililitros de leche\n10 mililitros de aceite de girasol"</string>
+    <string name="prepopulate_recipe_method_2">"Paso 1\nCon una batidora, mezcle la leche con los huevos y la margarina blanda.A continuación, mézclela con la harina hasta que quede suave.\n\nPaso 2\nVierta porciones de la masa en una sartén caliente con aceite. Fríe las tortitas por ambos lados."</string>
+
+    <string name="prepopulate_recipe_description_3">"Te invito a mi mejor receta de croquetas con setas y queso. Puedes prepararlas para la cena. Serán perfectas con sopa de remolacha."</string>
+    <string name="prepopulate_recipe_ingredients_3">"1 taza de harina\n2 huevos\n1,5 tazas de leche\n1 cucharadita de sal\n500 gramos de champiñones\n1 cucharada de aceite para freír"</string>
+    <string name="prepopulate_recipe_method_3">"Paso 1\nCombina la harina con la leche, los huevos y una pizca de sal para formar una masa clásica para tortitas.\n\nPaso 2\nFríe las tortitas finas en una sartén de teflón con un poco de aceite.\n\nPaso 3\nRalla los champiñones con un rallador grueso y fríelos en una sartén con aceite. \n\nPaso 4\nAñadir una pizca de sal a las setas y freír hasta que se evapore todo el agua y las setas se vuelvan muy oscuras.\n\nPaso 5\nAñadir el condimento Knorr al final de la fritura y freír hasta que las setas se vuelvan bastante gruesas. Servir inmediatamente o freírlos adicionalmente salteados o con pan rallado. Saben muy bien con una cucharada de crema agria."</string>
+    <string name="main_button_about">Sobre la app</string>
+    <string name="about_text">La aplicación recipe.cook es un libro de cocina para móviles.\n\nLa aplicación le permite guardar y gestionar fácilmente sus recetas favoritas. Todo en un solo lugar. La app también cuenta con uana calculadora de IMC con la que puedes calcular y evaluar tu índice de masa corporal en función de tu peso y tu altura.</string>
+
+</resources>
