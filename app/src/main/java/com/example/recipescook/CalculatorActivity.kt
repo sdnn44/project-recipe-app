@@ -31,11 +31,6 @@ class CalculatorActivity : AppCompatActivity() {
 
         calculateButton.setOnClickListener {
 
-//            if (weight.text.toString().isEmpty() || height.text.toString().isEmpty()) {
-//                Toast.makeText(this, "Please fill in all fields", Toast.LENGTH_SHORT)
-//                    .show()
-//            }
-
             var weightValue = 0.0
             var heightValue = 0.0
 

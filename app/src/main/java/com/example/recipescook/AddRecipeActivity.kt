@@ -116,15 +116,4 @@ class AddRecipeActivity : AppCompatActivity() {
         ) || TextUtils.isEmpty(recipeMethod) || recipeCookingTime.isEmpty() || recipeServings.isEmpty() || recipeCalories.isEmpty())
     }
 
-//    fun clearInputs(
-//        recipe_name: String,
-//        recipeDescription: String,
-//        recipeIngredients: String,
-//        recipeMethod: String,
-//        recipeCookingTime: Editable,
-//        recipeServings: Editable,
-//        recipeCalories: Editable
-//    ): Void? {
-//        return null
-//    }
 }
